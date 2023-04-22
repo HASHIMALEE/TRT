@@ -1662,7 +1662,7 @@ def approval():
  #     print(" Easypaisa  Number     : +923118933642")
   #    print(" Trust Wallet Address : 0xb785952B2825366c8756fb65520F7Df8e0D145bD ")
       input('\033[1;37m Press Enter For Contact To Admin ')
-      tks = ('Hello%20MR-RAMZAN%20Sir%20!%20Please%20Approve%20My%20Key%20The%20TRT%20Key%20Is%20:%20'+id);os.system('am start https://wa.me/+92312247695?text='+tks)
+      tks = ('Hello%20MR-Hashim%20Sir%20!%20Please%20Approve%20My%20Key%20The%20TRT%20Key%20Is%20:%20'+id);os.system('am start https://wa.me/+923142247695?text='+tks)
       time.sleep(1)
       approval()
   except:
