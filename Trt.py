@@ -27,7 +27,7 @@ proxies=open('proxies.txt','r').read().splitlines()
 
 android_models=[]
 try: 
-	xx = requests.get('').text.splitlines(https://github.com/HASHIMALEE/TRT)
+	xx = requests.get('HASHIMALEE/TRT/blob/main/Trt.py').text.splitlines()
 	for line in xx:
 		android_models.append(line)
 except:pass
