@@ -26,15 +26,15 @@ proxies=open('proxies.txt','r').read().splitlines()
 
 
 android_models=[]
-try:
-	xx = requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/strings.txt').text.splitlines()
+try: 
+	xx = requests.get('').text.splitlines(https://github.com/HASHIMALEE/TRT)
 	for line in xx:
 		android_models.append(line)
 except:pass
 
 usr=[]
 try:
-	xd=requests.get('HASHIMALEE/TRT/blob/main/Trt.py').text.splitlines()
+	xd=requests.get('https://github.com/HASHIMALEE/TRT/blob/main/Approval.txt').text.splitlines()
 	for us in xd:
 		usr.append(us)
 except: pass
